@@ -1,0 +1,149 @@
+h1{
+    color:maroon;
+     margin-bottom: 40px;
+}
+
+.post{
+   background: #77eed4;
+   margin: auto; 
+   width: 400px;
+   /* height: 150px; */
+   padding-left: 20px;
+   border: 3px solid #9ae3d4;
+    border-radius: 10px;
+    margin-top:20px;
+    box-shadow: 3px 3px 5px #08cea3;
+   padding-bottom:-20px;
+   
+}
+.username{
+    padding-top:20px;
+    margin-left:20px;
+   font-style:italic;
+   
+}
+
+.main{
+    width: 400px;
+    height: 400px;
+    background: rgb(194, 239, 255);
+    margin: auto;
+    margin-top:50px;
+    box-shadow: 2px 2px 6px rgb(33, 188, 244);
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+#text{
+    background: whitesmoke;
+    border: 2px solid whitesmoke;
+    box-shadow: 1px 1px 3px black;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+#new{
+    margin-top:50px;
+   
+    color: rgb(39, 120, 39);
+    background: white;
+    border-radius: 5px;
+    width: 60px;
+    height: 25px;
+    border: 1px solid rgb(39, 120, 39);
+    box-shadow: 1px 1px 4px rgb(39, 120, 39);
+
+}
+#new:hover{
+color: white;
+background: rgb(39, 120, 39);
+}
+label{
+    font-size: 1.2rem;
+}
+
+#username{
+     background: whitesmoke;
+    border: 2px solid whitesmoke;
+    box-shadow: 1px 1px 3px black;
+    border-radius: 5px;
+    margin-top: 30px;
+
+}
+
+.new{
+ background: white;
+ color: blue;
+ width: 65px;
+ height:30px;
+ margin-top:50px;
+ margin-left: 60px;
+ margin-bottom: 50px;
+ border-radius: 10px;
+ border: 1px solid blue;
+ box-shadow: 2px 2px 3px blue;
+
+ font-size: 1rem;
+
+}
+
+.new:hover{
+    background: blue;
+    color: white;
+}
+
+.new_post{
+color: green;
+background: white;
+
+ width: 70px;
+ height:30px;
+ border-radius: 7px;
+ border: 1px solid green;
+ box-shadow: 2px 2px 3px green;
+ position: relative;
+ top:10px;
+}
+
+.new_post:hover{
+    color: white;
+    background:green;
+}
+
+.edit{
+    color:#01896b;
+    background: white;
+    border:1px solid #01896b;
+    box-shadow: 2px 2px 3px #01896b; 
+    margin-left:10px;
+}
+
+.edit:hover{
+    color: white;
+    background:#01896b;
+}
+
+.editpost{
+    height: 350px;
+}
+
+.delete{
+color: rgb(235, 58, 58);
+background: white;
+margin-left:10px;
+ width: 70px;
+ height:30px;
+ border-radius: 7px;
+ border: 1px solid rgb(235, 58, 58);
+ box-shadow: 2px 2px 3px rgb(235, 58, 58);
+ position: relative;
+ left:280px;
+ top:-20px;
+
+}
+
+.delete:hover{
+    color: white;
+    background:rgb(235, 58, 58);
+}
